@@ -1,0 +1,10 @@
+#Binary-Search-Tree
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Root sayısı 4 tür. Solunda 2 bulunur 2'in sağ tarfında 3 sol tarafında 1 bulunur ve ağacın sol tarafı tamamlanır.Sağ tarafında 6 bulunur. Sol tarafında 5 bulunur sağ tarafında 7 yerini alır.7'nın sağ tarafında 9 bulunur sol tarafında 8 kalır ve böylece ağacımız son şeklini alır.
+                                         4
+                                       /   \
+                                     2       6
+                                    / \     / \
+                                   1   3   5   7
+                                              /  \
+                                             8    9
